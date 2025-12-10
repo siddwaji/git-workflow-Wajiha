@@ -1,1 +1,2 @@
 Main branch - Production
+Staging branch - Testing
